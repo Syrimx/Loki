@@ -1,14 +1,13 @@
-```bash
-                                                                
-                                                                    _/                  _/        _/  
-                                                                   _/          _/_/    _/  _/         
-                                                                  _/        _/    _/  _/_/      _/    
-                                                                 _/        _/    _/  _/  _/    _/     
-                                                                _/_/_/_/    _/_/    _/    _/  _/      
+                                                             
+                                       _/                  _/        _/  
+                                      _/          _/_/    _/  _/         
+                                    _/        _/    _/  _/_/      _/    
+                                   _/        _/    _/  _/  _/    _/     
+                                   _/_/_/    _/_/    _/    _/  _/      
 
 
 created by Ely Schybol
-```
+
 ## Introduction
 This simple C2 HTTP Server is based on Python Flask and designed to assist you with your Pentest or Bug Bounty.
 At the moment the Server comes with two features:
