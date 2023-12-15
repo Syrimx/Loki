@@ -27,7 +27,7 @@ Chears
 
 ## Quickstart
 ```bash
-git clone 
+git clone https://github.com/Syrimx/Loki.git
 cd Loki 
 python3 main.py
 ```
