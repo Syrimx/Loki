@@ -17,7 +17,7 @@ At the moment the Server comes with two features:
 
 * displaying incoming HTTP Request Data at */honeypot*
 
-* serving files at */dropper/<filename>*
+* serving files at */dropper/"filename"*
 
 Please make sure to add files you want to have served within the "dropper" folder.
 I'm not responsible for misuse of this tool and recommend plazing save and legal while testing applications. 
